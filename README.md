@@ -1,4 +1,10 @@
-# ubanktest
+# ubanktest readme file
+# git repo info
+https://github.com/Seema-Gowda/ubanktest
+
+git clone https://github.com/Seema-Gowda/ubanktest.git
+
+
 What is this
 Automated test suite for ‘Ubank' program using Cypress.
 Repository Structure
